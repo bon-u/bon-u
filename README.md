@@ -23,23 +23,23 @@
 
 ### 🌱 Skills
 
-##### LANGUAGE
+#### *LANGUAGE*
 
 Python, MySQL, SQLite3, PostgreSQL, MongoDB
 
-##### DATA ANALYSIS
+#### *DATA ANALYSIS*
 
 Pandas, NumPy, SciPy
 
-##### DL/ML FRAMEWORK
+#### *DL/ML FRAMEWORK*
 
 Tensorflow, PyTorch, Scitkit-learn, XGBoost
 
-##### WEB FRAMEWORK
+#### *WEB FRAMEWORK*
 
 Flask, Heroku
 
-##### COLLABORATIVE TOOL
+#### *COLLABORATIVE TOOL*
 
 Docker, Github
 
